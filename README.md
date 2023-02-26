@@ -22,7 +22,7 @@
 
 个人情况分析（个人情况分析模块）
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/831b2b322a7b73510e617aa87bd930d-167741510998130.png)
+![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/img/831b2b322a7b73510e617aa87bd930d.png)
 
 ![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/88a0f474cb07011d169af2242a955c6.png)
 
