@@ -12,7 +12,7 @@ https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/035af
 ## 系统截图
 
 ### 首页
-![Alt text](../../Typora笔记/前端/前端笔记/img/035af1ecac5f3a7eabac2590aa87df8.png)
+![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/035af1ecac5f3a7eabac2590aa87df8.png)
 
 数据分析（个人情况分析模块）
 
