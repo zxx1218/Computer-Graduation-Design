@@ -18,11 +18,11 @@
 
 ![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/831b2b322a7b73510e617aa87bd930d.png)
 
-个人情况分析（个人情况分析模块）
+数据分析（发展综合分析模块）
 
-![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/831b2b322a7b73510e617aa87bd930d-16774146835226.png)
+![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/cab3b67ae8f7a71ac9bea2fdbddb26a.png)
 
-![Alt text](../../Typora笔记/前端/前端笔记/img/88a0f474cb07011d169af2242a955c6-167741493836017.png)
+![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/88a0f474cb07011d169af2242a955c6.png)
 
 数据分析（宿舍情况分析模块）
 
@@ -48,6 +48,6 @@
 
 环境搭建（windows、macOS）+ 数据库导入：￥60rmb
 
-毕设论文开题+中期答辩+相关材料：￥200
+毕设论文开题+中期答辩+相关材料：￥200rmb
 
 ### **联系QQ：1144968929 或 VX：Accddvva**	
