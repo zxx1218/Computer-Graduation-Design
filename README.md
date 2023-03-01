@@ -2,6 +2,8 @@
 
 本项目基于已有的高校学生在校期间各方面的信息，联合教务办、学工办、就业办及研究生处等多部门，开发学生发展数据综合评价与分析系统，实现对学生在校期间学习、发展情况的智能化统计、分析，挖掘其内在的数据关系，为教师和辅导员提供更具针对性的教学对策，营造良好的学习氛围，促进师生交流，提高管理效率。
 
+**作者联系方式：VX：Accddvva，QQ：1144968929**
+
 ## 所涉技术 
 
 主体语言：JAVA  
@@ -42,7 +44,7 @@
 
 ![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/4d2ff5a54e1a808c2994cafad8e0cb2.png)
 
-### 学生在校实时数据模块（需要硬件支持）
+### 学生在校实时数据模块（需要硬件支持，已经预留了接口，做展示完全可用）
 
 ![Alt text](https://github.com/zxx1218/Computer-Graduation-Design/blob/main/Show-Image/1931bd7c5541247cc832793b9096c00.png)
 

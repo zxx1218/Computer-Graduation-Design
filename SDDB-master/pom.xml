@@ -50,15 +50,16 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
-        <!--<dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.18</version>
-        </dependency>-->
+<!--        数据库依赖，一定要和新机器的数据库版本匹配上-->
+<!--        <dependency>-->
+<!--            <groupId>mysql</groupId>-->
+<!--            <artifactId>mysql-connector-java</artifactId>-->
+<!--            <version>5.1.18</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.12</version>
+            <version>8.0.32</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
